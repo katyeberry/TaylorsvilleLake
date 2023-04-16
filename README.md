@@ -6,3 +6,11 @@ Taylorsville Lake is located in Spencer County, KY and has primary purposes incl
 
 ![Screenshot of animation](animation.jpg)     
 *[Taylorsville Lake Dam Flyover](https://youtu.be/Uk7ZaWG7X6E)*
+
+
+![Shaded Relief Taylorsville Lake Dam](mapSR.jpg)     
+*Shaded Relief Taylorsville Lake Dam*
+
+[Shaded Relief Taylorsville Lake Dam](mapSR.pdf)     
+
+Maps produced by Katye Berry, Spring 2023 for University of Kentucky, Department of Geography GEO409. Data from KyFromAbove.ky.gov and kyraster.ky.gov. ArcGIS and Blender were used to process data and create maps. 
