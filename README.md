@@ -13,16 +13,16 @@ Taylorsville Lake is located in Spencer County, KY and has primary purposes incl
 
 [Shaded Relief Taylorsville Lake Dam](mapSR.pdf) 
 
-![Taylorsville Lake close to Chowning Lane Boat Ramp looking Northwest](Lake ChowningLane.jpg)     
+![Taylorsville Lake close to Chowning Lane Boat Ramp looking Northwest](LakeChowningLane.jpg)     
 *Taylorsville Lake close to Chowning Lane Boat Ramp looking Northwest*    
 
-![Taylorsville Lake close to Van Buren Boat Ramp looking East](Lake VanBuren.jpg)     
+![Taylorsville Lake close to Van Buren Boat Ramp looking East](LakeVanBuren.jpg)     
 *Taylorsville Lake close to Van Buren Boat Ramp looking East*   
 
-![Taylorsville Lake View from the bottom of the dam looking Southeast](Lake FromBottomofDam.jpg)     
+![Taylorsville Lake View from the bottom of the dam looking Southeast](LakeFromBottomofDam.jpg)     
 *Taylorsville Lake View from the bottom of the dam looking Southeast*  
 
- ![Taylorsville Lake Outflow Control Tower](Outflow Tower.jpg)     
+ ![Taylorsville Lake Outflow Control Tower](OutflowTower.jpg)     
 *Taylorsville Lake Outflow Control Tower*  
 
  ![Taylorsville Lake Spillway](Spillway.jpg)     
